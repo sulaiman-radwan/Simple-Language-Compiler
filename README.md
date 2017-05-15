@@ -2,7 +2,7 @@
 
 This project is for the **Digital Compiler Design** Course
 
-![alt text](https://raw.githubusercontent.com/sulaiman-radwan/Simple-Language-Compiler/SreenShoot.png)
+![alt text](https://github.com/sulaiman-radwan/Simple-Language-Compiler/blob/master/ScreenShoot.png)
 
 
 ## Authors
