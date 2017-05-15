@@ -1,0 +1,16 @@
+    /*
+     * multi-line comment
+     * Created by Sulaiman I. Radwan
+     *        and Khaleel I. Shaheen
+     *        on 04-May-17.
+     */
+welcome() return void
+begin
+Integer x;
+Integer y;
+
+x := x + y;
+//This method prints Hello, World!
+print("Hello, World!");
+print("Loay");
+end

@@ -1,0 +1,39 @@
+Sum(Integer N) return Integer
+begin
+Integer sum := 0;
+Integer x := 1;
+while x <= N do
+sum := sum + x;
+x := x + 1;
+end while
+print(sum);
+return sum
+end
+
+Sum(Integer values[])return void
+begin
+Integer sum := 0;
+Index := 1;
+while index <= values_length do
+sum := sum + values[index ];
+index := index + 1;
+end while
+print(sum); end
+
+exchange(Integer value1, Integer value2) return void begin
+Integer temp;
+temp := value2;
+value2 := value1;
+value1 := temp;
+end bubbleSort(Integer values[])return Integer[] begin Integer index;
+repeat values_length - 1 times
+index := 1;
+repeat values_length - 1 times
+if list[index ] > list[index+1] then
+exchange(list[index ] , list[index+1])
+end if
+index := index + 1;
+end repeat
+end repeat
+return values;
+end
