@@ -6,9 +6,8 @@
 <?import org.fxmisc.richtext.InlineCssTextArea?>
 <AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.Controller">
     <children>
-        <Button layoutX="2.0" layoutY="2.0" mnemonicParsing="false" onAction="#compile" text="Compile"/>
         <SplitPane dividerPositions="0.6" orientation="VERTICAL" AnchorPane.bottomAnchor="0.0"
-                   AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="30.0">
+                   AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
             <items>
                 <StackPane>
                     <children>

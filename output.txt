@@ -1,9 +1,5 @@
 public class Code{
 	public void welcome(){
-		int x;
-		int y;
-		x=x+y;
 		System.out.print("Hello, World!");
-		System.out.print("Loay");
 	}
 }
