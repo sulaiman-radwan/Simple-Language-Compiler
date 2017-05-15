@@ -1,9 +1,11 @@
-Sum(Integer values[])return void
+    /*
+     * multi-line comment
+     * Created by Sulaiman I. Radwan
+     *        and Khaleel I. Shaheen
+     *        on 04-May-17.
+     */
+welcome() return void
 begin
-Integer sum := 0;
-Integer index := 1;
-while index <= values_length do
-sum := sum + values[index ];
-index := index + 1;
-end while
-print(sum); end
+//This method prints Hello, World!
+print("Hello, World!");
+end

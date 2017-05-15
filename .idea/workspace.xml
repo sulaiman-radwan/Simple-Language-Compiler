@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ec4449-8404-4498-9b11-37b1df04d73d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScreenShoot.png" afterPath="$PROJECT_DIR$/ScreenShoot.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input.txt" afterPath="$PROJECT_DIR$/input.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output.txt" afterPath="$PROJECT_DIR$/output.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +68,7 @@
       <file leaf-file-name="Parser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/parser/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
+            <state relative-caret-position="3410">
               <caret line="162" column="19" lean-forward="false" selection-start-line="162" selection-start-column="19" selection-end-line="162" selection-end-column="19" />
               <folding />
             </state>
@@ -76,8 +79,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="176">
-                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <first_editor relative-caret-position="88">
+                <caret line="4" column="96" lean-forward="false" selection-start-line="4" selection-start-column="96" selection-end-line="4" selection-end-column="96" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -304,7 +307,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="SearchEverywhereHistoryKey" value="Main&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/gui/Main.java&#10;inpu&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/input.txt&#10;Tag&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/lexer/Tag.java&#10;lexe&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/lexer/Lexer.java&#10;inp&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/input.txt&#10;Con&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/gui/Controller.java&#10;P&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/parser/Parser.java&#10;Lex&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/lexer/Lexer.java&#10;par&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/parser/Parser.java&#10;out&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/output.txt&#10;lex&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/lexer/Lexer.java&#10;con&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/gui/Controller.java&#10;smart&#9;ACTION&#9;SmartTypeCompletion&#10;show line&#9;null&#9;null&#10;showl&#9;ACTION&#9;EditorGutterToggleGlobalLineNumbers&#10;tostring&#9;PSI&#9;JAVA://lexer.Token#toString&#10;in&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/input.txt&#10;ou&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/output.txt" />
+    <property name="SearchEverywhereHistoryKey" value="re&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/README.md&#10;Main&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/gui/Main.java&#10;inpu&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/input.txt&#10;Tag&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/lexer/Tag.java&#10;lexe&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/lexer/Lexer.java&#10;inp&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/input.txt&#10;Con&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/gui/Controller.java&#10;P&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/parser/Parser.java&#10;Lex&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/lexer/Lexer.java&#10;par&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/parser/Parser.java&#10;out&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/output.txt&#10;lex&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/lexer/Lexer.java&#10;con&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/src/gui/Controller.java&#10;smart&#9;ACTION&#9;SmartTypeCompletion&#10;show line&#9;null&#9;null&#10;showl&#9;ACTION&#9;EditorGutterToggleGlobalLineNumbers&#10;tostring&#9;PSI&#9;JAVA://lexer.Token#toString&#10;in&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/input.txt&#10;ou&#9;FILE&#9;file:///Users/sulaiman/IdeaProjects/Compiler/output.txt" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project/compiler" />
     <property name="FullScreen" value="true" />
   </component>
@@ -317,11 +320,11 @@
       <recent name="lexer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\Khaleel Shaheen\Desktop\University\Compiler Design\Compiler" />
       <recent name="$PROJECT_DIR$/src/gui" />
       <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -1210,11 +1213,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494830663841</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added ScreenShoot to README">
+      <created>1494830742752</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1494830742752</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143445000" />
+    <option name="totallyTimeSpent" value="144331000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1361,13 +1371,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lexer/Word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lexer/Lexer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1593,9 +1596,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/parser/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="3410">
           <caret line="162" column="19" lean-forward="false" selection-start-line="162" selection-start-column="19" selection-end-line="162" selection-end-column="19" />
           <folding />
         </state>
@@ -1604,8 +1612,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="96" lean-forward="false" selection-start-line="4" selection-start-column="96" selection-end-line="4" selection-end-column="96" />
             <folding />
           </first_editor>
           <second_editor />

@@ -1,11 +1,5 @@
 public class Code{
-	public void Sum(int values[]){
-		int sum=0;
-		int index=1;
-		while(index<=values.length) {
- 			sum=sum+values[index];
-			index=index+1;
-		}
-		System.out.print(sum);
+	public void welcome(){
+		System.out.print("Hello, World!");
 	}
 }
